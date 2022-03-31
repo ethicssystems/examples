@@ -9,6 +9,8 @@ priority: 1
 authorLink: 'https://github.com/chief-wizard'
 authorName: 'Chief Wizard'
 authorAvatar: 'https://avatars3.githubusercontent.com/u/40777040?v=4&s=140'
+
+Adapted for use by LA City Ethics Commission  3/31/22 
 -->
 
 # A Simple Serverless GraphQL API for MySQL, Postgres and Aurora
